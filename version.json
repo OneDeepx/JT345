@@ -1,9 +1,9 @@
 {
-  "version": "1.2.0",
+  "version": "1.3.0",
   "release_date": "2024-11-08",
-  "download_url": "https://raw.githubusercontent.com/OneDeepx/JT345/main/releases/update-v1.2.zip",
-  "changelog_url": "https://raw.githubusercontent.com/OneDeepx/JT345/main/releases/CHANGELOG-v1.2.md",
+  "download_url": "https://raw.githubusercontent.com/OneDeepx/JT345/main/releases/update-v1.3.0.zip",
+  "changelog_url": "https://raw.githubusercontent.com/OneDeepx/JT345/main/releases/CHANGELOG-v1.3.md",
   "required": false,
   "min_version": "1.0.0",
-  "notes": "Functional news tab with live CryptoPanic feed"
+  "notes": "Strategy Tester with AI-powered backtesting and enhanced charts"
 }
